@@ -1,5 +1,6 @@
 #ifndef lint
 static char rcsid[] = "$Id: dial.c,v 0.2 2005/08/23 14:55:34 epi Exp $";
+/*	Author = Ighor Toth <igtoth@gmail.com> - dial.c, v 0.2 2005/08/23 14:55:34 */
 #endif
 #include <stdio.h>
 #include <stdlib.h>
