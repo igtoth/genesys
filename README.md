@@ -2,7 +2,7 @@
 title: Pyramid API Management - Python - using PureCloudPlatformClientV2 (Genesys PureCloud)
 ---
 
-![ScreenShot]("https://github.com/igtoth/genesys/blob/main/pyramid.jpg?raw=true")
+![ScreenShot](https://github.com/igtoth/genesys/blob/main/pyramid.jpg?raw=true)
 
 
 
